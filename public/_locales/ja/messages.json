@@ -1,0 +1,17 @@
+{
+  "extName": {
+    "message": "ViewPilot"
+  },
+  "extDescription": {
+    "message": "ViewPilot — GitHub Copilotで動作するAIサイドバー"
+  },
+  "contextMenuSelection": {
+    "message": "\"$TEXT$\" — ViewPilotに質問する",
+    "placeholders": {
+      "text": { "content": "$1" }
+    }
+  },
+  "contextMenuPage": {
+    "message": "このページについてViewPilotに質問する"
+  }
+}

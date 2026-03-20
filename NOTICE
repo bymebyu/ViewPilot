@@ -1,0 +1,87 @@
+ViewPilot
+Copyright (c) 2026 Gil Chang Lee (bymebyu)
+
+This product includes the following open source software:
+
+---
+
+highlight.js
+Copyright (c) 2006, Ivan Sagalaev
+License: BSD-3-Clause
+https://github.com/highlightjs/highlight.js
+
+---
+
+React / React DOM
+Copyright (c) Meta Platforms, Inc. and affiliates
+License: MIT
+https://github.com/facebook/react
+
+---
+
+react-markdown
+License: MIT
+https://github.com/remarkjs/react-markdown
+
+---
+
+remark-gfm
+License: MIT
+https://github.com/remarkjs/remark-gfm
+
+---
+
+remark-breaks
+License: MIT
+https://github.com/remarkjs/remark-breaks
+
+---
+
+remark-math
+License: MIT
+https://github.com/remarkjs/remark-math
+
+---
+
+KaTeX
+Copyright (c) 2013-2020 Khan Academy and other contributors
+License: MIT
+https://github.com/KaTeX/KaTeX
+
+---
+
+rehype-katex
+License: MIT
+https://github.com/remarkjs/rehype-katex
+
+---
+
+Turndown
+License: MIT
+https://github.com/mixmark-io/turndown
+
+---
+
+Zustand
+Copyright (c) 2019 Daishi Kato
+License: MIT
+https://github.com/pmndrs/zustand
+
+---
+
+Tailwind CSS
+Copyright (c) Tailwind Labs, Inc.
+License: MIT
+https://github.com/tailwindlabs/tailwindcss
+
+---
+
+WXT
+License: MIT
+https://github.com/wxt-dev/wxt
+
+---
+
+rehype-raw
+License: MIT
+https://github.com/rehypejs/rehype-raw

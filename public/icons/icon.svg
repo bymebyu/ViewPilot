@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="128" y2="128" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1D4ED8"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="innerGlow" x1="0" y1="0" x2="128" y2="128" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#60A5FA" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Rounded square background -->
+  <rect width="128" height="128" rx="26" fill="url(#bg)"/>
+  <!-- Inner glow overlay -->
+  <rect x="6" y="6" width="116" height="116" rx="22" fill="url(#innerGlow)"/>
+
+  <!-- Antenna stem -->
+  <rect x="61" y="24" width="6" height="18" rx="3" fill="white" opacity="0.92"/>
+  <!-- Antenna tip (cyan accent) -->
+  <circle cx="64" cy="20" r="7" fill="#38BDF8"/>
+  <circle cx="64" cy="20" r="3.5" fill="white" opacity="0.6"/>
+
+  <!-- Robot head (white rounded rect) -->
+  <rect x="26" y="40" width="76" height="60" rx="14" fill="white" opacity="0.95"/>
+
+  <!-- Left eye -->
+  <rect x="36" y="57" width="20" height="14" rx="5" fill="#1E40AF"/>
+  <circle cx="39.5" cy="60.5" r="3" fill="white" opacity="0.55"/>
+  <!-- Right eye -->
+  <rect x="72" y="57" width="20" height="14" rx="5" fill="#1E40AF"/>
+  <circle cx="75.5" cy="60.5" r="3" fill="white" opacity="0.55"/>
+
+  <!-- Mouth area - speaker grill lines -->
+  <rect x="42" y="80" width="44" height="3.5" rx="1.75" fill="#1E40AF" opacity="0.45"/>
+  <rect x="42" y="87" width="44" height="3.5" rx="1.75" fill="#1E40AF" opacity="0.3"/>
+
+  <!-- Left ear piece -->
+  <rect x="13" y="58" width="13" height="22" rx="5" fill="white" opacity="0.78"/>
+  <!-- Right ear piece -->
+  <rect x="102" y="58" width="13" height="22" rx="5" fill="white" opacity="0.78"/>
+</svg>

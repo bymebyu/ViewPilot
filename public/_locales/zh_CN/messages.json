@@ -1,0 +1,17 @@
+{
+  "extName": {
+    "message": "ViewPilot"
+  },
+  "extDescription": {
+    "message": "ViewPilot — 由 GitHub Copilot 驱动的 AI 浏览器侧边栏"
+  },
+  "contextMenuSelection": {
+    "message": "向 ViewPilot 询问 \"$TEXT$\"",
+    "placeholders": {
+      "text": { "content": "$1" }
+    }
+  },
+  "contextMenuPage": {
+    "message": "向 ViewPilot 询问此页面"
+  }
+}

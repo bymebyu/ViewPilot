@@ -1,0 +1,17 @@
+node_modules/
+.output/
+.wxt/
+dist/
+*.local
+.env
+.env.*
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.claude/
+.serena/
+.mcp.json
+doc_*/
+*.zip
+copilot_sider.zip

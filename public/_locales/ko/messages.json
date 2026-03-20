@@ -1,0 +1,17 @@
+{
+  "extName": {
+    "message": "ViewPilot"
+  },
+  "extDescription": {
+    "message": "ViewPilot — GitHub Copilot 기반 AI 사이드바"
+  },
+  "contextMenuSelection": {
+    "message": "\"$TEXT$\" — ViewPilot에게 질문하기",
+    "placeholders": {
+      "text": { "content": "$1" }
+    }
+  },
+  "contextMenuPage": {
+    "message": "이 페이지에 대해 ViewPilot에게 질문하기"
+  }
+}
