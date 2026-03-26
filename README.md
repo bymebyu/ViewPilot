@@ -10,8 +10,8 @@
 
 <p align="center">
   <a href="https://chrome.google.com/webstore"><img src="https://img.shields.io/badge/Chrome-Extension-4285F4?logo=googlechrome&logoColor=white" alt="Chrome"></a>
-  <a href="https://addons.mozilla.org"><img src="https://img.shields.io/badge/Firefox-Add--on-FF7139?logo=firefox&logoColor=white" alt="Firefox"></a>
-  <a href="https://microsoftedge.microsoft.com/addons"><img src="https://img.shields.io/badge/Edge-Extension-0078D7?logo=microsoftedge&logoColor=white" alt="Edge"></a>
+  <a href="https://addons.mozilla.org/firefox/addon/viewpilot/"><img src="https://img.shields.io/badge/Firefox-Add--on-FF7139?logo=firefox&logoColor=white" alt="Firefox"></a>
+  <a href="https://microsoftedge.microsoft.com/addons/detail/viewpilot/ocnagbhegoacffhejllfedejaclpmoki"><img src="https://img.shields.io/badge/Edge-Extension-0078D7?logo=microsoftedge&logoColor=white" alt="Edge"></a>
   <a href="https://ko-fi.com/giljun"><img src="https://img.shields.io/badge/Ko--fi-Support-FF5E5B?logo=kofi&logoColor=white" alt="Ko-fi"></a>
   <img src="https://img.shields.io/badge/version-1.0.0-blue" alt="Version">
   <img src="https://img.shields.io/badge/license-GPL--3.0-blue" alt="License">
@@ -56,8 +56,8 @@ Now, whenever I'm studying something or a question pops up, I just ask. It made 
 | Browser | Link |
 |---------|------|
 | Chrome  | [Chrome Web Store](https://chrome.google.com/webstore) (under review) |
-| Firefox | [Firefox Add-ons](https://addons.mozilla.org) (coming soon) |
-| Edge    | [Edge Add-ons](https://microsoftedge.microsoft.com/addons) (coming soon) |
+| Firefox | [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/viewpilot/) |
+| Edge    | [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/viewpilot/ocnagbhegoacffhejllfedejaclpmoki) |
 
 ### Build from Source
 
