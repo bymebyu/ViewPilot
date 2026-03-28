@@ -57,7 +57,7 @@ Now, whenever I'm studying something or a question pops up, I just ask. It made 
 |---------|------|
 | Chrome  | [Chrome Web Store](https://chrome.google.com/webstore) (under review) |
 | Firefox | [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/viewpilot/) |
-| Edge    | [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/viewpilot/ocnagbhegoacffhejllfedejaclpmoki) |
+| Edge    | [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/ocnagbhegoacffhejllfedejaclpmoki) |
 
 ### Build from Source
 
